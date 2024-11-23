@@ -36,11 +36,7 @@ Suppose you do not have the optim hyperparameters:
 5. Run the file 'train_def_dataset2.ipynb' to train the model
 6. Run nlp_ifeval.ipynb and when finished, execute on the terminal the command in the ifeval_command.txt
 
-In performance the model benchmarks are evaluated
-The other files were used to test the model and to understand the data.
-
-
 Useful link:
 https://upcomillas-my.sharepoint.com/:f:/g/personal/202106145_alu_comillas_edu/Emxrq9iIW39CpfTp2K4kjyUB7Z5mcklC25xHuU5we3CAlA?e=XR5uLj
-This link contains different folders. 'data' includes jsonl files with answers to evaluate IfEval. The best accuracy is obtained with: 
+This link contains different folders. 'data' includes jsonl files with answers to evaluate IfEval. The best accuracy is obtained with the IfEval responses in the file 'data/input_response_data_2_128.jsonl'. It has to be included in 'instruction_following_eval/data' with the name 'input_response_data.jsonl'.
 The model_ folders are different checkpoints of the model.
