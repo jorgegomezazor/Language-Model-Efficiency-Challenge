@@ -2,10 +2,8 @@ data/
 goat/
 goat_continue/
 goat_ifeval_dataset/
-instruction_following_eval/
 mierda/
 model_responses/
-optuna/
 starte-kit/
 goat.jsonl
 goatttt.jsonl
