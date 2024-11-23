@@ -20,6 +20,7 @@ This project addresses the challenge of balancing model size, data quality, and 
     - `optuna_OASST1_3params.ipynb`: notebook used to optimize the 3 hyperparameters of the model at the same time.
     - `optuna_ifeval_like_dataset.ipynb`: notebook used to optimize the hyperparameters of the model after executing the first training phase of the model.
 - `screenshot/`: Contains screenshots of IfEval benchmarks.
+### **Files**
 - `performance_dataset1.ipynb`: notebook used after training with the first dataset, to evaluate the performance of the model with benchmarks of the model.
 - `performance_dataset2.ipynb`: notebook used after training with the second dataset, to evaluate the performance of the model with benchmarks of the model.
 - `train_def_dataset1.ipynb`: notebook used to train the model with the first dataset.
