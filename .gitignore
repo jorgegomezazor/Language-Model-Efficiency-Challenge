@@ -1,11 +1,5 @@
 data/
-goat/
-goat_continue/
-goat_ifeval_dataset/
-mierda/
-model_responses/
-starte-kit/
-goat.jsonl
-goatttt.jsonl
-hasta_los_huevos.jsonl
-last.jsonl
+model_ifeval_like_dataset_1500/
+model_OASST1_500/
+model_OASST1_2000/
+starter-kit/

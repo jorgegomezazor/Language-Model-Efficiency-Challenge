@@ -10,6 +10,7 @@ Suppose you do not have the optim hyperparameters:
 5. Run the file 'train_def_dataset2.ipynb' to train the model
 6. Run nlpifeval.ipynb and when finished, execute on the terminal the command in the ifeval_command.txt
 
+In performance the model benchmarks are evaluated
 The other files were used to test the model and to understand the data.
 
 
