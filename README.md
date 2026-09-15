@@ -1,5 +1,5 @@
 # Language-Model-Efficiency-Challenge
-This repository contains the implementation of the 1 Model, 1 GPU, 1 Day: Language Model Efficiency Challenge, developed for the Natural Language Processing II (2024/2025) course. The goal of this project is to explore and optimize fine-tuning techniques for language models under strict computational constraints.
+This repository contains the implementation of the 1 Model, 1 GPU, 1 Day: Language Model Efficiency Challenge, developed for the Natural Language Processing II (2024/2025) course. The goal of this project is to explore and optimize fine-tuning techniques for language models under strict computational constraints. 
 
 Project Objective
 Train and evaluate a pre-trained language model (LLM) through Supervised Fine-Tuning (SFT) within a maximum of 24 hours, using a single GPU (Nvidia 4070 Ti with 12 GB of RAM).
